@@ -13,3 +13,7 @@ This project analyzes Sentiment Analytics performance using metrics like views, 
 ### 2. 🎛️ **Year & Dislike Slicer**
 ### 3. 🏆 **Top 20 Channels Table**
 ### 4. 🚫 **Error/Removed Videos Bar Chart**
+### 🚀 How to Use
+Download the .pbix file from this repo
+Open in Power BI Desktop
+Use slicers to explore trends by room type, year, and neighbourhood group
